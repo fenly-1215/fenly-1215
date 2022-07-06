@@ -1,5 +1,5 @@
 {
-"spider":"https://www.jianguoyun.com/p/DRGQ77MQqZLfChjXlcsEIAA",
+"spider":"https://css.lc/view.php/065c92f7720fa01e64086455d201cfe1.jar",
 
 "sites":[
 
